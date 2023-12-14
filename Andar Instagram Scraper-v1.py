@@ -1,10 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 26 14:57:30 2021
-
-@author: CE
-"""
 
 import csv
 from csv import writer
